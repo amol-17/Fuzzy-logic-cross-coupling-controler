@@ -1,1 +1,3 @@
-# amol-17-Fuzzy-logic-cross-coupling-controler
+# Fuzzy-logic-cross-coupling-controller
+
+
